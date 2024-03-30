@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rutvik Dadhalwala</h1>
-<h3 align="center">A Passionate Frontend Web Developer From India</h3>
+<h3 align="center">A Passionate Frontend Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvikdadhal14&label=Profile%20views&color=0e75b6&style=flat" alt="rutvikdadhal14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvikdadhal14" alt="rutvikdadhal14" /></a> </p>
 
 - 💬 Ask me about **Wordpress,HTML,CSS,Bootstrap,Page Builders**
 
