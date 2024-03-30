@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Wordpress,HTML,CSS,Bootstrap,Page Builders**
 
-- 📫 How to reach me **rutvikdadhal2@gmail.com**
+- 📫 How to reach me **rutvikdadhal2@gmail.com , +919979620535**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JmI4SyUKGycRNagkg-om7k-x-lNFucXG/view?usp=drive_link](https://drive.google.com/file/d/1JmI4SyUKGycRNagkg-om7k-x-lNFucXG/view?usp=drive_link)
 
