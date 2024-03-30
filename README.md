@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Wordpress,HTML,CSS,Bootstrap,Page Builders**
 
-- 📫 How to reach me **rutvikdadhal2@gmail.com**
+- 📫 How to reach me **rutvikdadhal2@gmail.com** <a href="tel:9979620535">(997)962-0535</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JmI4SyUKGycRNagkg-om7k-x-lNFucXG/view?usp=drive_link](https://drive.google.com/file/d/1JmI4SyUKGycRNagkg-om7k-x-lNFucXG/view?usp=drive_link)
 
