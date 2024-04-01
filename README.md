@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rutvik-dadhalwala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutvik-dadhalwala/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Projects & Work:</h3>
-- [Project 1][(link_to_project_1)](https://www.boldervisuals.com/en/) - Project Of creating and customize graphical animations Product and Sell On Ecommerce Website.
+- [Project 1](https://www.boldervisuals.com/en/) - Project Of creating and customize graphical animations Product and Sell On Ecommerce Website.
 
 - [Project 2]([link_to_project_2](https://nuttydeal.com/)) - This Website is For Online supplies to products Store.
 
